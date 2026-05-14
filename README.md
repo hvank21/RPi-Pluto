@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27751402/README.md)
 # Pluto_RPi4 — утиліти для ADALM-Pluto 2RX
 
 Проєкт містить набір C/C++ утиліт для роботи з ADALM-Pluto / Pluto+ у режимі 2RX:
